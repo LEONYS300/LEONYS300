@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there 😎
 
-<!--
-**LEONYS300/LEONYS300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o leony souza ,sou um programador Front End atualmente estou aprendendo e criando projetos com:
+<br>
+<br>
+  
+- <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>
+- <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
 
-Here are some ideas to get you started:
+ ### Conecct with my:
+ <a href="https://www.instagram.com/dev_fullstack.18/"> <img align="left" src="https://img.shields.io/badge/-050301?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/leony-souza-809124387/"> <img align="left" width="22px" src="https://github.com/user-attachments/assets/35e28df8-63c0-454d-b711-2f754fd25def"/></a>
+<br>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+
+
